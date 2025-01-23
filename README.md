@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, meu nome é Wallyson Silva 👋
 
-<!--
-**wallysonsilva136/wallysonsilva136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente com foco em ciência de dados, cursando cientista de dados pela escola DNC;
+  
+- Experiencia de estágios em empresas de tecnologia, atuando como suporte de sistema, desenvolvedor web e infraestrutura de TI;
+  
+- Atualmente trabalhando no setor público na parte administrativa, contrato temporário no órgão de fiscalização da prefeitura;
+  
+- Linguagens de programação e ferramentas que tenho familiaridade:
+  
+  - Python
+  - PHP
+  - SQL
+  - XAMPP
+  - POWER BI
+  - DJANGO
+  - DRAW.IO
+  - EXCEL
+    
+- Formação superior em sistemas da informação pela Uniasselvi;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
